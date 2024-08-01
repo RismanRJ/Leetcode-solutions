@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
