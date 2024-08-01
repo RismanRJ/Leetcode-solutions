@@ -3,9 +3,7 @@ class Solution {
             int cnt=0;
 
             for(int i=0;i<details.length;i++){
-                StringBuffer sb= new StringBuffer(details[i].substring(11,13));
-                // System.out.println(sb);
-                int age= Integer.parseInt(sb.toString());
+                int age= Integer.parseInt(details[i].substring(11,13));
                 if(age>60)
                     cnt++;
             }
