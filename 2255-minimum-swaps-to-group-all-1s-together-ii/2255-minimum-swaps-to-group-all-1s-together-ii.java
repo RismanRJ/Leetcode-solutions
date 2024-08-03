@@ -14,8 +14,8 @@ class Solution {
         int maxOnes=currOnes;
 
         for(int i=0;i<nums.length;i++){
-            currOnes-=nums[i];
-            currOnes+= nums[(i+totalOnes)%nums.length];
+            currOnes-=nums[i]; // remove the current element from the window
+            currOnes+= nums[(i+totalOnes)%nums.length]; // add the new element to the window --> to track the last element of window we are using ==> (i+totalOnes)%n
             maxOnes=Math.max(maxOnes,currOnes);
         }
 
