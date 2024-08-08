@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
