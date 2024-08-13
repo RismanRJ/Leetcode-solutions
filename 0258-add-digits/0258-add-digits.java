@@ -20,3 +20,15 @@ class Solution {
         return dummy;
     }
 }
+
+
+//alternate solution
+
+// if(num==0)
+//     return 0;
+// else if(num%9 ==0)  --> Time complexity -- o(1)
+//     return 9;
+// else 
+//     return num%9;
+
+//constraints = 2^31 ==10 digits 
