@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0921-spiral-matrix-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 ## String Matching
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
