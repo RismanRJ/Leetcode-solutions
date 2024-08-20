@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0059-spiral-matrix-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
