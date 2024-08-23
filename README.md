@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0059-spiral-matrix-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0078-subsets) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0078-subsets) |
 ## Number Theory
 |  |
 | ------- |
