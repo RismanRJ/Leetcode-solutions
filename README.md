@@ -124,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
