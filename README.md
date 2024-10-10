@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
+| [1002-maximum-width-ramp](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
