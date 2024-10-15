@@ -4,10 +4,11 @@ class Solution {
         long min=0;
         for(char ch:s.toCharArray()){
             if(ch=='0'){
-                min+= (long)black;
+                min+= (long)black; // logic -->calculate the no of black balls
+                // if white ball is found swap with the black balls on its left
             }
             else
-                black++;
+                black++; // else --> count the number of black balls
         } 
         return min;
     }
