@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0670-maximum-swap](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1304-longest-happy-string) |
