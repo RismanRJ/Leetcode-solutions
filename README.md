@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0567-permutation-in-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1894-merge-strings-alternately](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0812-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
