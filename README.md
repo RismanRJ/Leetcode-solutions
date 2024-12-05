@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
