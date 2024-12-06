@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
