@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [1002-maximum-width-ramp](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
