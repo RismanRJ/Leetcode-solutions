@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> intersection(int[][] nums) {
-        int[] arr= new int[100001];
+        int[] arr= new int[1001];
         Arrays.fill(arr,0);
         List<Integer>ans= new ArrayList<>();
         int n = nums.length;
