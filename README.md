@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0921-spiral-matrix-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
