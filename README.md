@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3430-count-days-without-meetings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 ## String
 |  |
 | ------- |
