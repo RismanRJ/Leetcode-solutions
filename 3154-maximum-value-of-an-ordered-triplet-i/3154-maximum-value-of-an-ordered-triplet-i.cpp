@@ -9,7 +9,7 @@ public:
         for(int i=0;i<n-2;i++){
             l_max= max(nums[i],l_max);
            ll temp = (ll)(l_max - nums[i+1]);
-           if(temp> 0 && temp>max_dif) max_dif = temp;
+           if(temp>max_dif) max_dif = temp;
            temp = (ll)(max_dif* nums[i+2]);
            ans = max(ans,temp);
         }
