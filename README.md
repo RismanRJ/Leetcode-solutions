@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1217-relative-sort-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1044-find-common-characters](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1019-squares-of-a-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1028-interval-list-intersections) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
