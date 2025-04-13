@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Array
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0382-linked-list-random-node](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
 |  |
