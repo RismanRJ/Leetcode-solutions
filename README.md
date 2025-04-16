@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1044-find-common-characters) |
 | [1304-longest-happy-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1304-longest-happy-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
