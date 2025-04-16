@@ -12,7 +12,7 @@ public:
             while(r<n && eq_pairs<k){
                 mpp[nums[r]]++;
                 if(mpp[nums[r]]>1){
-                    eq_pairs+= mpp[nums[r]]-1;
+                    eq_pairs+= mpp[nums[r]]-1;  // no of pairs appeared before the current element
                 }
                 r++;
             }
