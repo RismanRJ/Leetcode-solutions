@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3463-alternating-groups-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
 | ------- |
