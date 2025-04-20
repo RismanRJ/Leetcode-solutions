@@ -6,7 +6,10 @@ public:
         for(int i: nums) mpp[i]++;
         int ans =0;
         for(auto [it,cnt]: mpp){
-            ans += ((cnt + it) / (it + 1)) * (it + 1);
+            int groupSize= it+1; // no of rabbits + 1;
+            int groups = ceil((double)cnt/(double)groupSize);
+
+            ans+= groups*groupSize;
         }
 
         return ans;
