@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3311-ant-on-the-boundary](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3311-ant-on-the-boundary](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1694-make-sum-divisible-by-p](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3311-ant-on-the-boundary](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 ## Monotonic Stack
 |  |
 | ------- |
