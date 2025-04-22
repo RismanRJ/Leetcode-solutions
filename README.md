@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0382-linked-list-random-node) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
