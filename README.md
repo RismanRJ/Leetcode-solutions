@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -443,5 +444,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
