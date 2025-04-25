@@ -11,7 +11,7 @@ public:
 
             pref%=modulo;
 
-            if(mpp.count((pref-k+modulo)%modulo)){
+            if(mpp.count((pref-k+modulo)%modulo)){ // to avoid negative range
                 ans+=mpp[(pref-k+modulo)%modulo];
             }
 
