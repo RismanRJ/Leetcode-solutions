@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2756-buy-two-chocolates) |
+| [2915-count-of-interesting-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1694-make-sum-divisible-by-p](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2915-count-of-interesting-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 ## Monotonic Stack
 |  |
