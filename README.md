@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
