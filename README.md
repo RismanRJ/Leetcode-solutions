@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
