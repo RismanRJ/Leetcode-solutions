@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0921-spiral-matrix-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [1806-count-of-matches-in-tournament](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [2048-build-array-from-permutation](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2698-find-the-array-concatenation-value) |
