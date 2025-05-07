@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -476,8 +479,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0744-network-delay-time) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0744-network-delay-time) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
