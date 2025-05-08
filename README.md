@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0812-rotate-string) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
