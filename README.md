@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2756-buy-two-chocolates) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
