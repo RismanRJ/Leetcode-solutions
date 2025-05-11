@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1217-relative-sort-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
