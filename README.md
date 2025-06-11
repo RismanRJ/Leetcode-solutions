@@ -377,10 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Database
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
