@@ -1,14 +1,17 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int idx = -1;
-        for(int i=0;i<nums.size();i++) if(nums[i]==0) {idx=i; break;}
-        if(idx==-1) return;
-        int n = nums.size();
-        for(int i= idx+1;i<n;i++){
-            if(nums[i]!=0){
-                swap(nums[i],nums[idx]);
-                idx++;
+
+        int i = 0;
+
+        for (int j = 0; j < nums.size(); j++) {
+            if (nums[j] != 0) {
+                swap(nums[i], nums[j]); // initially both starts at same , but
+                                        // when j starts zero , it moves forward
+                                        // , but i stuck at Zero
+                // whenever the j meets non zero element will swap (i,j) &
+                // increment i to track next zero th element idx
+                i++;
             }
         }
     }
