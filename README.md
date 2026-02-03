@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0921-spiral-matrix-iii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1217-relative-sort-array) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1217-relative-sort-array) |
 ## Linked List
 |  |
@@ -529,4 +534,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RismanRJ/Leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
