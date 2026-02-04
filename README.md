@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0382-linked-list-random-node](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [0707-design-linked-list](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
