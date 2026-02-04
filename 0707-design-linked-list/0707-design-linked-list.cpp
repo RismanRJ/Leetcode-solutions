@@ -1,5 +1,4 @@
-class Node {
-public:
+struct Node {
     int val;
     Node* next; // Fix: Use pointer for next node
 
