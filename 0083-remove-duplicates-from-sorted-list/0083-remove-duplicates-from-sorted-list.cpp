@@ -18,11 +18,12 @@ public:
 
         while(temp!=nullptr){
             ListNode* front = temp;
-            while(front!=nullptr && front->val == temp->val) front= front->next;
+            while(front!=nullptr && front->val == temp->val) front= front->next; // go till front!=null , then only it will go till last node 
             temp->next = front;
             temp= temp->next;
-
         }
+
+        delete(temp); // free the space
         
         return head;
     }
