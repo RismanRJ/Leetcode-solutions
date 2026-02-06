@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2756-buy-two-chocolates) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3463-alternating-groups-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3483-alternating-groups-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
