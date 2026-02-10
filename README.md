@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
+| [3719-longest-balanced-subarray-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [3719-longest-balanced-subarray-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Queue
 |  |
 | ------- |
@@ -584,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RismanRJ/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/RismanRJ/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
